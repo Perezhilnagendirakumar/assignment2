@@ -8,4 +8,7 @@ myMean <- function(assignment2)
 } # this function works by computing which is a numeric vector then perform the block of code inside to compute a average and return the average value  
 myMean(assignment2) # passing  assignment2 numeric vector on to the mymean function 
 
-
+# results 
+> myMean(assignment2) # passing  assignment2 numeric vector on to the mymean function 
+[1] 19.25
+> 
