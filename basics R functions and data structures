@@ -1,0 +1,11 @@
+assignment2 <- c(16, 18, 14, 22, 27, 17, 19, 17, 17, 22, 20, 22)
+assignment2
+myMean <- function(assignment2)
+  { 
+   average<- sum(assignment2)/length(assignment2) 
+   return(average)
+                          
+} # this function works by computing which is a numeric vector then perform the block of code inside to compute a average and return the average value  
+myMean(assignment2) # passing  assignment2 numeric vector on to the mymean function 
+
+
